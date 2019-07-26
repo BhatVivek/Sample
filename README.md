@@ -1,2 +1,2 @@
-# Sample
+# Samplegit
 First Github Repository
